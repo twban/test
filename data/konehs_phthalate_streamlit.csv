@@ -1,0 +1,81 @@
+﻿metabolite,substance_kr,year,age_group_en,age_group_kr,statistic,value,source,source_url,unit
+MBzP,모노벤질프탈레이트 (MBzP),2014,adult,성인,geometric_mean,2.82,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2014,adult,성인,p95,19.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,adult,성인,geometric_mean,1.99,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,adult,성인,p95,14.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,elementary,초등학생,geometric_mean,2.8,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,elementary,초등학생,p95,24.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,middle_high_school,중고등학생,geometric_mean,2.78,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,middle_high_school,중고등학생,p95,25.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,preschool,영유아,geometric_mean,3.12,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MBzP,모노벤질프탈레이트 (MBzP),2017,preschool,영유아,p95,22.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,adult,성인,geometric_mean,0.441,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,adult,성인,p95,1.47,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,elementary,초등학생,geometric_mean,0.533,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,elementary,초등학생,p95,1.45,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,middle_high_school,중고등학생,geometric_mean,0.452,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,middle_high_school,중고등학생,p95,1.02,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,preschool,영유아,geometric_mean,0.491,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCNP,모노(카르복시노닐)프탈레이트(MCNP),2017,preschool,영유아,p95,1.83,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,adult,성인,geometric_mean,1.07,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,adult,성인,p95,4.59,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,elementary,초등학생,geometric_mean,2.24,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,elementary,초등학생,p95,8.31,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,middle_high_school,중고등학생,geometric_mean,1.71,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,middle_high_school,중고등학생,p95,6.83,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,preschool,영유아,geometric_mean,1.62,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCOP,모노(카르복시옥틸)프탈레이트 (MCOP),2017,preschool,영유아,p95,6.76,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,adult,성인,geometric_mean,1.13,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,adult,성인,p95,3.84,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,elementary,초등학생,geometric_mean,1.56,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,elementary,초등학생,p95,4.43,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,middle_high_school,중고등학생,geometric_mean,1.48,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,middle_high_school,중고등학생,p95,3.89,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,preschool,영유아,geometric_mean,1.8,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MCPP,모노(3-카르복시프로필)프탈레이트(MCPP),2017,preschool,영유아,p95,5.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2014,adult,성인,geometric_mean,20.1,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2014,adult,성인,p95,70.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,adult,성인,geometric_mean,23.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,adult,성인,p95,131.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,elementary,초등학생,geometric_mean,44.5,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,elementary,초등학생,p95,144.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,middle_high_school,중고등학생,geometric_mean,28.4,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,middle_high_school,중고등학생,p95,89.7,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,preschool,영유아,geometric_mean,45.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MECPP,모노(2-에틸-5-카르복시펜틸)프탈레이트 (MECPP),2017,preschool,영유아,p95,173.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2011,adult,성인,geometric_mean,20.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2011,adult,성인,p95,77.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2014,adult,성인,geometric_mean,17.5,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2014,adult,성인,p95,71.7,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,adult,성인,geometric_mean,13.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,adult,성인,p95,62.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,elementary,초등학생,geometric_mean,28.8,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,elementary,초등학생,p95,85.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,middle_high_school,중고등학생,geometric_mean,13.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,middle_high_school,중고등학생,p95,53.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,preschool,영유아,geometric_mean,34.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEHHP,모노(2-에틸-5-하이드록시헥실)프탈레이트(MEHHP),2017,preschool,영유아,p95,96.8,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2011,adult,성인,geometric_mean,15.5,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2011,adult,성인,p95,57.8,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2014,adult,성인,geometric_mean,12.1,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2014,adult,성인,p95,47.9,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,adult,성인,geometric_mean,9.88,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,adult,성인,p95,50.9,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,elementary,초등학생,geometric_mean,19.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,elementary,초등학생,p95,65.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,middle_high_school,중고등학생,geometric_mean,9.24,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,middle_high_school,중고등학생,p95,38.5,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,preschool,영유아,geometric_mean,25.5,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MEOHP,모노(2-에틸-5-옥소헥실)프탈레이트 (MEOHP),2017,preschool,영유아,p95,83.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2011,adult,성인,geometric_mean,44.7,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2011,adult,성인,p95,208.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2014,adult,성인,geometric_mean,23.6,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2014,adult,성인,p95,105.7,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,adult,성인,geometric_mean,22.3,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,adult,성인,p95,125.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,elementary,초등학생,geometric_mean,43.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,elementary,초등학생,p95,126.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,middle_high_school,중고등학생,geometric_mean,36.9,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,middle_high_school,중고등학생,p95,168.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,preschool,영유아,geometric_mean,47.2,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L
+MnBP,모노부틸프탈레이트 (MnBP),2017,preschool,영유아,p95,157.0,"국립환경과학원 국민환경보건기초조사(1~3기, 2011/2014/2017)",https://www.data.go.kr/data/3075219/fileData.do,ug/L

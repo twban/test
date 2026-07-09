@@ -1,0 +1,10 @@
+product_kr,product_en,category,evidence_type,metabolite,in_konehs_baseline,effect_value,effect_unit,source,source_url
+향수/콜론,perfume_cologne,fragrance,quantitative,MEP,No,83,percent_increase,"Braun et al. 2014, EARTH Study (men) - J Expo Sci Environ Epidemiol","https://pubmed.ncbi.nlm.nih.gov/28886595/"
+데오드란트,deodorant,fragrance,quantitative,MEP,No,74,percent_increase,"Braun et al. 2014, EARTH Study (men)","https://pubmed.ncbi.nlm.nih.gov/28886595/"
+헤어스프레이/젤,hairspray_gel,hair,quantitative,MEP,No,24.5,percent_increase,"Braun et al. 2014, EARTH Study (men) - range 18-31%, midpoint used","https://pubmed.ncbi.nlm.nih.gov/28886595/"
+애프터쉐이브,aftershave,fragrance,quantitative,MEP,No,24.5,percent_increase,"Braun et al. 2014, EARTH Study (men) - range 18-31%, midpoint used","https://pubmed.ncbi.nlm.nih.gov/28886595/"
+샴푸/린스,shampoo_conditioner,hair,qualitative,MEHHP,Yes,higher,association_only,"Nature/PMC 2023 - Personal care product use patterns and phthalate biomarkers (pregnancy cohort)","https://pmc.ncbi.nlm.nih.gov/articles/PMC11303244/"
+핸드크림/바디로션,hand_body_lotion,skincare,qualitative,MEHHP,Yes,higher,association_only,"Nature/PMC 2023 - Personal care product use patterns and phthalate biomarkers","https://pmc.ncbi.nlm.nih.gov/articles/PMC11303244/"
+색조화장품/아이메이크업,eye_makeup,cosmetics,qualitative,MnBP,Yes,higher,association_only,"Nature/PMC 2023 - Personal care product use patterns and phthalate biomarkers","https://pmc.ncbi.nlm.nih.gov/articles/PMC11303244/"
+페이스크림,face_cream,skincare,qualitative,MnBP,Yes,higher,association_only,"Nature/PMC 2023 - Personal care product use patterns and phthalate biomarkers","https://pmc.ncbi.nlm.nih.gov/articles/PMC11303244/"
+섬유유연제,fabric_softener,laundry,qualitative,MnBP,Yes,plausible_higher,not_directly_studied_in_cited_cohort,"국내 프탈레이트 함유 생활화학제품 관련 문헌 기반 추정 - 정량 연구 부재, 추가 검증 필요","https://www.data.go.kr/data/15111774/openapi.do"

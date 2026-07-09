@@ -1,0 +1,11 @@
+age_group,cycle,year_start,year_end,chemical,metabolite,statistic,value,unit,source,source_url
+women_16_49,2007-2008,2007,2008,DEHP,"MEHP+MEOHP+MEHHP",median,51,ug/L,"US EPA - Biomonitoring: Phthalates (America's Children and the Environment)","https://www.epa.gov/americaschildrenenvironment/biomonitoring-phthalates"
+women_16_49,2017-2018,2017,2018,DEHP,"MEHP+MEOHP+MEHHP",median,9,ug/L,"US EPA - Biomonitoring: Phthalates (America's Children and the Environment)","https://www.epa.gov/americaschildrenenvironment/biomonitoring-phthalates"
+children,2001-2002,2001,2002,DEHP,"MEHP+MEOHP+MEHHP",median,57,ug/L,"US EPA - Biomonitoring: Phthalates (America's Children and the Environment)","https://www.epa.gov/americaschildrenenvironment/biomonitoring-phthalates"
+children,2017-2018,2017,2018,DEHP,"MEHP+MEOHP+MEHHP",median,13,ug/L,"US EPA - Biomonitoring: Phthalates (America's Children and the Environment)","https://www.epa.gov/americaschildrenenvironment/biomonitoring-phthalates"
+all_participants,2007-2008,2007,2008,DEHP,"sum of DEHP metabolites",p50,35,ug/L,"US EPA Report on the Environment - Phthalates indicator","https://cfpub.epa.gov/roe/technical-documentation.cfm?i=67"
+all_participants,2007-2008,2007,2008,DEHP,"sum of DEHP metabolites",p95,406,ug/L,"US EPA Report on the Environment - Phthalates indicator","https://cfpub.epa.gov/roe/technical-documentation.cfm?i=67"
+all_participants,2007-2008,2007,2008,DBP,"MnBP+MiBP",p50,29,ug/L,"US EPA Report on the Environment - Phthalates indicator","https://cfpub.epa.gov/roe/technical-documentation.cfm?i=67"
+all_participants,2007-2008,2007,2008,DBP,"MnBP+MiBP",p95,147,ug/L,"US EPA Report on the Environment - Phthalates indicator","https://cfpub.epa.gov/roe/technical-documentation.cfm?i=67"
+all_participants,2007-2008,2007,2008,BBzP,MBzP,p50,12,ug/L,"US EPA Report on the Environment - Phthalates indicator","https://cfpub.epa.gov/roe/technical-documentation.cfm?i=67"
+all_participants,2007-2008,2007,2008,BBzP,MBzP,p95,82,ug/L,"US EPA Report on the Environment - Phthalates indicator","https://cfpub.epa.gov/roe/technical-documentation.cfm?i=67"
